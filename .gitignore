@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Project temp
+temp/
+outputs/
+uploads/
+
+# OS
+.DS_Store
+
+# Env
+.env
