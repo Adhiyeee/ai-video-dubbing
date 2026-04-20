@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Temp / generated files
+backend/temp/
+backend/uploads/
+outputs/
+temp/
+
+# Media files (VERY IMPORTANT)
+*.mp4
+*.wav
+*.mp3
+
+# OS
+.DS_Store
+
+# Env
+.env

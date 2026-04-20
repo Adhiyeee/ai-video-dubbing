@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-video-dubbing/static/css/main.ffb35189.css",
+    "main.js": "/ai-video-dubbing/static/js/main.2c7df87f.js",
+    "static/js/453.825386d9.chunk.js": "/ai-video-dubbing/static/js/453.825386d9.chunk.js",
+    "index.html": "/ai-video-dubbing/index.html",
+    "main.ffb35189.css.map": "/ai-video-dubbing/static/css/main.ffb35189.css.map",
+    "main.2c7df87f.js.map": "/ai-video-dubbing/static/js/main.2c7df87f.js.map",
+    "453.825386d9.chunk.js.map": "/ai-video-dubbing/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb35189.css",
+    "static/js/main.2c7df87f.js"
+  ]
+}
